@@ -1,0 +1,3 @@
+[submodule "Blackjack_CS122_Project_Pico/lvgl"]
+	path = Blackjack_CS122_Project_Pico/lvgl
+	url = https://github.com/lvgl/lvgl.git
