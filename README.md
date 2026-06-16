@@ -32,8 +32,6 @@ At the same time, the Pico hosts its own Wi-Fi access point and a custom HTTP/SS
 <img width="600" height="700" alt="Screenshot 2026-06-07 161026" src="https://github.com/user-attachments/assets/d373c5ed-5806-4769-b96e-3baa5be6f082" />
 
 
-
-
 ## System design
 
 <img width="1235" height="690" alt="image" src="https://github.com/user-attachments/assets/8c4c3086-3679-4ee7-8ab4-22a0a22d3764" />
@@ -48,7 +46,7 @@ At the same time, the Pico hosts its own Wi-Fi access point and a custom HTTP/SS
 
 ## Software
 
-| Library | Purpose |
+| Library | Purpose | 
 |---|---|
 | `pico_stdlib` | Core Pico SDK functionality |
 | `hardware_spi` | Low-level SPI driver that sends pixel data to the FPGA |
